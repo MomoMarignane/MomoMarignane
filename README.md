@@ -11,8 +11,8 @@ Développement logiciel : Expérience pratique dans la conception et la mise en 
 Je suis actuellement à la recherche d'un stage en développement informatique, prévu pour commencer en février 2024, et pour une durée 4 mois. Mon objectif est d'approfondir mes compétences, d'apprendre de nouvelles technologies et de contribuer de manière significative à des projets stimulants.
 
 <h3>Contact 📞</h3>
-📧 Email : mohamed.mansour@epitech.eu\n
-📱 LinkedIn : https://linkedin.com/in/mansour3w
+<p>📧 Email : mohamed.mansour@epitech.eu</p>
+<p>📱 LinkedIn : https://linkedin.com/in/mansour3w</p>
 N'hésitez pas à me contacter si vous êtes intéressé par une collaboration ou si vous avez des opportunités de stage à discuter.
 
 Je suis ravi de faire partie de la communauté GitHub et de partager mes projets avec vous !
