@@ -1,9 +1,9 @@
 <h1>Bienvenue sur mon profil GitHub ! 🌟</h1>
 
-<h2>À propos de moi</h2>
-Je m'appelle Mohalmed Mansour, et je suis passionné par le développement de logiciels depuis 2019. Au fil des années, j'ai acquis une expérience diversifiée en travaillant avec différents langages de programmation, avec une expertise particulière en C et C++.
+<h2>À propos de moi 👨🏽‍💻</h2>
+Je m'appelle Mohamed Mansour, et je suis passionné par le développement de logiciels, app web ... depuis 2019. Au fil des années, j'ai acquis une expérience diversifiée en travaillant avec différents langages de programmation, et dans des domaines différents (allant de création de site web à la création de réseau neuronal), avec une expertise particulière en C et C++.
 
-<h3>Compétences 👨🏽‍💻</h3>
+<h3>Compétences 🏆</h3>
 Langages de programmation : C, C++, java, python, javascript, react ...
 Développement logiciel : Expérience pratique dans la conception et la mise en œuvre de projets de différentes envergures.
 
