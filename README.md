@@ -1,6 +1,6 @@
-<h1 align="center">🌟 Bienvenue sur mon profil GitHub ! 🌟</h1>
+<h1 align="center">🌟 Welcome to my GitHub profile ! 🌟</h1>
 
-<h2 align="center">👨🏽‍💻 À propos de moi 👨🏽‍💻</h2>
+<h2 align="center">👨🏽‍💻 About me 👨🏽‍💻</h2>
 <p align="center">My name is Mohamed Mansour, and I've been passionate about software development, web app ... since 2019. Over the years, I've gained diverse experience working with different programming languages, and in different domains (ranging from website creation to neural network creation), with particular expertise in C and C++.</p>
 
 <h3 align="center">📙 Languages and Tools 📙</h3>
