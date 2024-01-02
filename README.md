@@ -4,7 +4,8 @@
 <p align="center">My name is Mohamed Mansour, and I've been passionate about software development, web app ... since 2019. Over the years, I've gained diverse experience working with different programming languages, and in different domains (website, neural network, cyber security, vidéo game ... ), with particular expertise in C and C++.</p>
 
 <h2 align="center">📙 Languages and Tools 📙</h2>
-<p <div align="left">
+
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
@@ -46,7 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
- </p>
+  </div>
+
 
 <h3 align="center">🎖️ My Stack 🎖️</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=momomarignane&show_icons=true&locale=en&layout=compact" alt="momomarignane" /></p>
