@@ -1,55 +1,34 @@
-# Portfolio – Docker Deployment
+# 👋 Hello, I'm Mohamed Mansour
 
-This project can be easily deployed with Docker. Here’s how to proceed:
+🎓 I'm currently in my second year of Master's at **Epitech Marseille** (M2).  
+💻 Passionate about software development, learning new technologies, and building cool things.  
+📍 Looking for a **part-time internship** from **September 15, 2025** to **February 28, 2026**.
 
-## Deployment
+---
 
-Run the deployment script:
+## 🚀 About Me
 
-```bash
-cd my_portfolio
-./deploy.sh
-```
+- 🎯 Always seeking to improve and learn through real-world projects
+- 🌐 Interested in web development, system design, and AI
+- 🔧 I use GitHub daily to host, document, and share my projects
+- 💬 I enjoy collaborating with others and contributing to open-source
 
-The script will prompt you:
+---
 
-```
-Which environment do you want to deploy?
-1) Development (with hot reload)
-2) Production
-Your choice (1/2):
-```
+## 📈 GitHub Stats
 
-### Differences between modes
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmansour&show_icons=true&theme=radical)
 
-- **1) Development**:
-  - Your local source code is mounted into the container (volume), so any change is instantly reflected (hot reload).
-  - The Next.js server runs in development mode (`next dev`).
-  - Ideal for coding and rapid testing.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmansour&layout=compact&theme=radical)
 
-- **2) Production**:
-  - The code is built and then served in optimized mode (`next build` then `next start`).
-  - No hot reload: you must rebuild the Docker image to see changes.
-  - The app is optimized for performance and security.
+---
 
-## Stopping containers
+## 📫 Get in Touch
 
-To stop containers started with Docker Compose:
+- Email: [mohamed.mansour@epitech.eu]
+- LinkedIn: [https://www.linkedin.com/in/mansour3w](https://linkedin.com/in/your-linkedin)
+- Portfolio: [mansour-dev.com](https://your-portfolio.com)
 
-```bash
-cd my_portfolio
-docker-compose down
-```
+---
 
-This stops and removes the created containers.
-
-## Application access
-
-- The app is available at: [http://localhost:3000](http://localhost:3000)
-
-## Prerequisites
-
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
-
-For more details, see the file `my_portfolio/README.md`.
+> 💡 *I’m open to opportunities, collaborations, and learning more — don’t hesitate to reach out!*
