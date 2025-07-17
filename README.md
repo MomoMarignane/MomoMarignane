@@ -27,7 +27,7 @@
 
 - Email: [mohamed.mansour@epitech.eu]
 - LinkedIn: [https://www.linkedin.com/in/mansour3w](https://linkedin.com/in/your-linkedin)
-- Portfolio: [mansour-dev.com](https://your-portfolio.com)
+- Portfolio: [www.mansour-dev.com](https://your-portfolio.com)
 
 ---
 
