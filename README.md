@@ -26,7 +26,7 @@
 ## 📫 Get in Touch
 
 - Email: [mohamed.mansour@epitech.eu]
-- LinkedIn: [https://www.linkedin.com/in/mansour3w](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [https://www.linkedin.com/in/mansour3w](https://www.linkedin.com/in/mansour3w)
 - Portfolio: [mansour-dev.com](https://www.mansour-dev.com/)
 
 ---
